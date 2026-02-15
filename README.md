@@ -87,7 +87,7 @@ plt.show()
 
 ### Results
 
-![Likelihood of Skills Requested in the US Job Postings]()
+![Likelihood of Skills Requested in the US Job Postings]
 
 <img width="622" height="472" alt="2_Skill_Demand" src="https://github.com/user-attachments/assets/b64b5927-5810-4e6b-8adb-07df905062b6" />
 
